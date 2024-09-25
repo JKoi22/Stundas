@@ -1,0 +1,21 @@
+aa={
+"Miks":9,
+"Veneranda":5,
+"Renards":4,
+"Niks":10,
+"Endriks":8
+}
+x=aa.keys()
+print(x)
+y=aa.values()
+print(y)
+z=aa.get("Endriks")
+print(z)
+aa["Lāsma"]=1
+print(aa)
+aa.pop("Miks")
+print(aa)
+if "Mārtiņš" in aa:
+    print("jā")
+else:
+    print("nē")
