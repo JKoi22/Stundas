@@ -1,0 +1,12 @@
+janvâris
+februâris
+marts
+aprîlis
+maijs
+jûnijs
+jûlijs
+augusts
+septembris
+oktobris
+novembris
+decembris
